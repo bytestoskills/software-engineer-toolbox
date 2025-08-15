@@ -10,7 +10,8 @@ Let’s explore how to actually get things done with AI, clearly, efficiently, a
 
 We know, reading can be a drag, so we made you a short video.
 You’ll get a quick walkthrough of how to use this page, what to skip, and how to get the most value without spending your whole lunch break here. It's short. It's snappy. It might even make you smile.
-[▶️ Watch the 2-minute video](#)
+
+[Watch the 2-minute video](https://youtu.be/wmwxC2RJUQo)
 
 ---
 
@@ -184,5 +185,6 @@ Also, where would I go to change [specific behavior]?
 ## Don’t Be Shy, Pay Us a Visit
 
 True skills never go out of date.
-[Give it a look](https://www.bytestoskills.co/), it’s short, sharp, and doesn’t waste your time.
+
+[Give it a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
 
