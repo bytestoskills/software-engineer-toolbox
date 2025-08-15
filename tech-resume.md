@@ -10,7 +10,7 @@ If you're here, you're probably a developer looking to level up your resume. Let
 
 We know reading can feel like work. So, if you're more of a visual person, there's a short video where I walk through how to actually use this page to improve your resume, in less time than it takes your CI pipeline to build an app.
 
-[Watch the 2-min video here](#)
+[Watch the 2-min video here](https://youtu.be/soC01KFMMbo)
 
 ---
 
@@ -128,5 +128,6 @@ If you’ve got a GitHub, personal site, blog, or even a specific project you’
 ## Don’t Be Shy, Pay Us a Visit
 
 True skills never go out of date.
-[Give it a look](https://www.bytestoskills.co/), it’s short, sharp, and doesn’t waste your time.
+
+[Give it a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
 
