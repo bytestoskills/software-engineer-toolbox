@@ -32,10 +32,10 @@ That’s what this little gift is about: 7 skills we wish we had learned earlier
 
 Here’s what’s inside the toolbox so far:
 
-### [Communication Habits for Software Engineers](./communication-habits.md)  
+### [Communication Habits for Software Engineers](./communication_habits.md)  
 Because great engineers don’t just ship code—they ship clarity. Learn how to write short, sharp updates your PM and director will actually want to read.
 
-### [Coding with AI: The Developer’s Playbook](./coding-with-ai.md)  
+### [Coding with AI: Context Engineering for Developers](./coding-with-ai.md)  
 Still just asking ChatGPT to “write a Python function”? Come on. Let’s go deeper. This guide teaches you how to think, code, refactor, and debug *with* AI like a pro.
 
 ### [The Anatomy of a Great Tech Resume](./tech-resume.md)  
