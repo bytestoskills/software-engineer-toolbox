@@ -24,7 +24,7 @@ Over the years, we found that what moved the needle in our careers wasn’t just
 
 That’s what this little gift is about: 7 skills we wish we had learned earlier, bundled into one no-nonsense guide.
 
-[Give it a look](https://www.bytestoskills.co/), it’s made by devs, for devs.
+[Give it a look](https://www.bytestoskills.co/) (it’s made by devs, for devs)
 
 ---
 
