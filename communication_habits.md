@@ -5,7 +5,7 @@
 **We know reading isn't everyone's favorite debugging method.**\
 That's why we made a short video explaining how to use this page and get the most out of it, without falling asleep.
 
-[Watch the 2-min video here](#)
+[Watch the 2-min video here](https://youtu.be/4jtuCDLpYJU)
 
 ---
 
@@ -164,5 +164,6 @@ Trade-offs, risks, follow-ups, or what this unblocks.
 ## Hungry for More?
 
 True skills never go out of date.
-[Give it a look](https://www.bytestoskills.co/), it’s short, sharp, and doesn’t waste your time.
+
+[Give it a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
 
