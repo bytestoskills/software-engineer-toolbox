@@ -24,21 +24,5 @@ Over the years, we found that what moved the needle in our careers wasn’t just
 
 That’s what this little gift is about: 7 skills we wish we had learned earlier, bundled into one no-nonsense guide.
 
-[Give it a look](https://www.bytestoskills.co/) (it’s made by devs, for devs)
+[Take a look](https://www.bytestoskills.co/) (it’s made by devs, for devs)
 
----
-
-## Let’s See What You Can Learn from Us
-
-Here’s what’s inside the toolbox so far:
-
-### [Communication Habits for Software Engineers](./communication-habits.md)  
-Because great engineers don’t just ship code—they ship clarity. Learn how to write short, sharp updates your PM and director will actually want to read.
-
-### [Coding with AI: Context Engineering for Developers](./coding-with-ai.md)  
-Still just asking ChatGPT to “write a Python function”? Come on. Let’s go deeper. This guide teaches you how to think, code, refactor, and debug *with* AI like a pro.
-
-### [The Anatomy of a Great Tech Resume](./tech-resume.md)  
-What makes a resume stand out in a pile of 300? This is the no-fluff breakdown
-
-*(More coming soon… and they’ll be just as useful. Stay tuned.)*
