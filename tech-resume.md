@@ -121,5 +121,5 @@ If you’ve got a GitHub, personal site, blog, or even a specific project you’
 
 True skills never go out of date.
 
-[Give it a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
+[Take a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
 
