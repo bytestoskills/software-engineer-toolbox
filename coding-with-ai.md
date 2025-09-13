@@ -6,15 +6,6 @@ Let’s explore how to actually get things done with AI, clearly, efficiently, a
 
 ---
 
-## How to Get the Most Out of This Page
-
-We know, reading can be a drag, so we made you a short video.
-You’ll get a quick walkthrough of how to use this page, what to skip, and how to get the most value without spending your whole lunch break here. It's short. It's snappy. It might even make you smile.
-
-[Watch the 2-minute video](https://youtu.be/wmwxC2RJUQo)
-
----
-
 ## A Few Guidelines from Experience
 
 Think of this like advice from your Staff Engineer buddy who’s been quietly testing AI tools for the last year while still shipping features.
@@ -186,5 +177,5 @@ Also, where would I go to change [specific behavior]?
 
 True skills never go out of date.
 
-[Give it a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
+[Take a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
 
