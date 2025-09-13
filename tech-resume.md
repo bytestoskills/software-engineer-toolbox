@@ -6,14 +6,6 @@ If you're here, you're probably a developer looking to level up your resume. Let
 
 ---
 
-## How to Get the Most Out of This Page
-
-We know reading can feel like work. So, if you're more of a visual person, there's a short video where I walk through how to actually use this page to improve your resume, in less time than it takes your CI pipeline to build an app.
-
-[Watch the 2-min video here](https://youtu.be/soC01KFMMbo)
-
----
-
 ## Good Resume / Bad Resume
 
 These patterns show up all the time. Here’s what helps your resume get noticed, and what gets it quietly closed.
