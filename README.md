@@ -7,7 +7,7 @@ Whether you're aiming for cleaner systems or clearer communication, you'll find 
 
 ---
 
-## ⚙️ How to Make the Most of This Repo
+## How to Make the Most of This Repo
 
 Start with whatever grabs your attention, maybe it's debugging, maybe it's writing better emails, or 1:1s. Each page is designed to stand on its own, so you don’t need to read them in order or all at once.
 Skim, learn, try something. Come back later when you're stuck or bored or chasing that next promotion.
@@ -19,7 +19,8 @@ Skim, learn, try something. Come back later when you're stuck or bored or chasin
 Hey, we’re engineers, so let’s skip the marketing talk.
 Over the years, we found that what moved the needle in our careers wasn’t just code. It was how we communicated, learned, made decisions, and handled complexity.
 That’s what this little gift is about: 7 skills we wish we had learned earlier, bundled into one no-nonsense guide.
-[Take a look](https://www.bytestoskills.co/) (it’s made by devs, for devs)
+
+[Take a look](https://www.bytestoskills.co/) (No fluff. No silver bullets. Just real help.)
 
 ---
 
