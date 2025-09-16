@@ -1,6 +1,6 @@
 # Let's Grow Together.
 
-## 🧠 What This Repo Is About
+## What This Repo Is About
 
 This is a collection of hard-earned lessons, sharp tools, habits, systems, and real-world strategies to help software engineers grow, not just in code, but in career.  
 Whether you're aiming for cleaner systems or clearer communication, you'll find something here to level up how you think, build, and lead.
@@ -21,14 +21,14 @@ Over the years, we found that what moved the needle in our careers wasn’t just
 That’s what this little gift is about: 7 skills we wish we had learned earlier, bundled into one no-nonsense guide.
 [Take a look](https://www.bytestoskills.co/) (it’s made by devs, for devs)
 
-## 📚 Table of Contents
+---
+
+## Table of Contents
 
 This repo is organized into two main folders: `career/` and `technical/`.  
 Pick your poison—or better yet, balance both.
 
----
-
-### 🧭 Career
+### Career
 
 #### [`career/tech-resume.md`](./career/tech-resume.md)  
 **The Anatomy of a Great Tech Resume**  
@@ -52,7 +52,7 @@ Pick your poison—or better yet, balance both.
 
 ---
 
-### 🧠 Technical
+### Technical
 
 #### [`technical/system-design.md`](./technical/system-design.md)  
 **System Design: What Really Matters**  
