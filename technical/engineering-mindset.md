@@ -51,14 +51,8 @@ Great engineers don’t just code differently. They think differently. They bala
 
 ---
 
-## Closing Note  
-Mindset won’t compile into code, but it shapes every line you write. Keep it sharp. And if this page got you thinking, don’t be shy, swing by the other materials in this repo.  
+## This Is Where I Bribe You with Value
 
----
-
-## Hungry for More?
-
-True skills never go out of date.
-
-[Take a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
+You've made it to the end. Most people tap out by the second header.  
+That deserves a reward, this little [gem](https://www.bytestoskills.co/).
 
