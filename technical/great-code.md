@@ -60,7 +60,7 @@ We’ve all seen it. We’ve all cursed it. Let’s not add to it.
 
 ---
 
-## Final Note  
+## Long Story Short
 
 Great code is not perfect code. It’s not even beautiful code, at least not in the artistic sense. Great code is code that works, that lasts, and that helps real people solve real problems without slowing them down. It’s useful, reliable, and boring in the best possible way.  
 
@@ -68,8 +68,7 @@ That’s what really matters.
 
 ---
 
-## Hungry for More?
+## This Is Where I Bribe You with Value
 
-True skills never go out of date.
-
-[Take a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
+You're clearly the kind of engineer who reads the whole doc.  
+Respect. Let’s keep that energy going over at our [website](https://www.bytestoskills.co/).
