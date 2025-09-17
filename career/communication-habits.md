@@ -152,9 +152,6 @@ Trade-offs, risks, follow-ups, or what this unblocks.
 
 ---
 
-## Hungry for More?
+## This Is Where I Bribe You with Value
 
-True skills never go out of date.
-
-[Take a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
-
+You’ve been scrolling through Staff Engineer thoughts like it’s popcorn. Might as well [get the full buffet](https://www.bytestoskills.co/).
