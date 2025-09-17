@@ -1,6 +1,6 @@
 # System Design [What Really Matters]
 
-## Intro: Cutting Through the Noise  
+## Cutting Through the Noise  
 System design often looks impressive on a whiteboard: circles, arrows, and enough acronyms to fill a bingo card. But most of that theater doesn’t hold up once the system hits production. What really matters isn’t how clever your diagram looks. It’s whether the system holds together under pressure, whether the team can run it without losing sleep, and whether it actually solves the problem it was meant to solve.  
 
 Think of this as field notes, not doctrine. These are the ideas that have proven themselves in the real world, stripped of the fluff.  
@@ -70,8 +70,7 @@ If you keep these principles close, you’ll design systems that work in the rea
 
 ---
 
-## Don’t Be Shy, Pay Us a Visit
+## This Is Where I Bribe You with Value
 
-True skills never go out of date.
+Some engineers fix bugs. Others fix careers. If you’re into the second one (or just curious), [this website](https://www.bytestoskills.co/) might be worth a click.
 
-[Take a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
