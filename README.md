@@ -31,46 +31,36 @@ Pick your poison—or better yet, balance both.
 
 ### Career
 
-#### [`career/tech-resume.md`](./career/tech-resume.md)  
-**The Anatomy of a Great Tech Resume**  
+#### [The Anatomy of a Great Tech Resume](./career/tech-resume.md)  
 *Spoiler: Most resumes get skimmed, ignored, or trashed. Here’s how to make yours stand out without sounding like a robot.*
 
-#### [`career/technical-leadership.md`](./career/technical-leadership.md)  
-**Technical Leadership: What Really Matters**  
+#### [Technical Leadership: What Really Matters](./career/technical-leadership.md)  
 *Spoiler: It’s not your title or how many meetings you attend. It’s what you do when systems break and people stall.*
 
-#### [`career/communication-habits.md`](./career/communication-habits.md)  
-**Communication Habits for Software Engineers**  
+#### [Communication Habits for Software Engineers](./career/communication-habits.md)  
 *Spoiler: Clear updates beat “quick syncs” and Slack novels every time. Your calendar and your team will thank you.*
 
-#### [`career/career-coach-lessons.md`](./career/career-coach-lessons.md)  
-**Lessons Learned from Working with a Career Coach**  
+#### [Lessons Learned from Working with a Career Coach](./career/career-coaching.md)  
 *Spoiler: A good coach won’t give you answers. They’ll force you to ask better questions (and finally fix what’s holding you back).*
 
-#### [`career/one-on-ones.md`](./career/one-on-ones.md)  
-**1:1s Done Right**  
+#### [1:1s Done Right](./career/1:1.md)  
 *Spoiler: If your 1:1s feel pointless, you’re either talking too much or not enough. Here’s how to make them count.*
 
 ---
 
 ### Technical
 
-#### [`technical/system-design.md`](./technical/system-design.md)  
-**System Design: What Really Matters**  
+#### [System Design: What Really Matters](./technical/system-design.md)  
 *Spoiler: You don’t need a thousand patterns. You need to know how to think when tradeoffs get real.*
 
-#### [`technical/great-code.md`](./technical/great-code.md)  
-**Great Code: What Really Matters**  
+#### [Great Code: What Really Matters](./technical/great-code.md)  
 *Spoiler: It’s not about clever tricks. It’s about writing code your future self (and your teammates) won’t curse at.*
 
-#### [`technical/coding-with-ai.md`](./technical/coding-with-ai.md)  
-**Coding with AI: Context Engineering for Developers**  
+#### [Coding with AI: Context Engineering for Developers](./technical/coding-with-ai.md)  
 *Spoiler: AI can’t replace you, but it can make you faster, sharper, and way more dangerous (in the good way).*
 
-#### [`technical/debugging.md`](./technical/debugging.md)  
-**Debug Like a Pro**  
+#### [Debug Like a Pro](./technical/debug.md)  
 *Spoiler: Great engineers don’t panic. They debug with a plan—and a checklist that actually works.*
 
-#### [`technical/engineering-mindset.md`](./technical/engineering-mindset.md)  
-**The Mindset of Great Software Engineers**  
+#### [The Mindset of Great Software Engineers](./technical/engineering-mindset.md)  
 *Spoiler: It’s not raw IQ that sets great engineers apart. It’s curiosity, resilience, and the willingness to be wrong (a lot).*
