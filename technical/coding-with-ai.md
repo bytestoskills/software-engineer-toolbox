@@ -173,9 +173,8 @@ Also, where would I go to change [specific behavior]?
 
 ---
 
-## Don’t Be Shy, Pay Us a Visit
+## This Is Where I Bribe You with Value
 
-True skills never go out of date.
-
-[Take a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
+Engineers hate writing documentation, except when it's secretly about career growth.  
+If you're into that sort of rebellion, visit [our website](https://www.bytestoskills.co/).
 
