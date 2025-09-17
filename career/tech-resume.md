@@ -117,9 +117,7 @@ If you’ve got a GitHub, personal site, blog, or even a specific project you’
 
 ---
 
-## Don’t Be Shy, Pay Us a Visit
+## This Is Where I Bribe You with Value
 
-True skills never go out of date.
-
-[Take a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
+If you’ve made it this far, you’re either learning something… or procrastinating really well. Either way, [our website is waiting](https://www.bytestoskills.co/).
 
