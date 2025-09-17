@@ -20,8 +20,8 @@ And finally: **success is yours to define**. This one is simple, but it hit me h
 ## How to Apply This Without a Coach  
 Here’s the good news: you don’t need to pay someone to start applying these lessons. Write down your goals and check if they’re actually yours, not borrowed from your peers or LinkedIn. Tell your career story out loud, even if just to a friend, and notice the gaps. Ask your teammates for feedback in one sentence: *“What’s one thing I could do better?”* And start treating your communication habits like part of your engineering toolkit, not an optional plugin.  
  
-## Don’t Be Shy, Pay Us a Visit
+## This Is Where I Bribe You with Value
 
-True skills never go out of date.
+Some engineers refactor code. Others refactor their careers. If you’re into both, this [website](https://www.bytestoskills.co/)  might be your next rabbit hole.
 
-[Take a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
+
