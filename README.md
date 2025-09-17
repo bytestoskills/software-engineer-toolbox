@@ -26,7 +26,7 @@ That’s what this little gift is about: 7 skills we wish we had learned earlier
 
 ## Table of Contents
 
-This repo is organized into two main folders: `career/` and `technical/`.  
+This repo is organized into two main folders: `career` and `technical`.  
 Pick your poison—or better yet, balance both.
 
 ### Career
@@ -34,7 +34,7 @@ Pick your poison—or better yet, balance both.
 #### [The Anatomy of a Great Tech Resume](./career/tech-resume.md)  
 *Spoiler: Most resumes get skimmed, ignored, or trashed. Here’s how to make yours stand out without sounding like a robot.*
 
-#### [Technical Leadership: What Really Matters](./career/technical-leadership.md)  
+#### [Technical Leadership: What Really Matters](./career/tech-leadership.md)  
 *Spoiler: It’s not your title or how many meetings you attend. It’s what you do when systems break and people stall.*
 
 #### [Communication Habits for Software Engineers](./career/communication-habits.md)  
