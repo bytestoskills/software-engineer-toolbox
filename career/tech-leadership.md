@@ -43,8 +43,6 @@ And maybe the hardest lesson: learn to say “no.” Not the blunt, defensive no
 
 ---
 
-## Hungry for More?
+## This Is Where I Bribe You with Value
 
-True skills never go out of date.
-
-[Take a look](https://www.bytestoskills.co/) (it’s short, sharp, and doesn’t waste your time)
+You’ve read this far, which probably means you’re smart *and* stubborn. Our [website](https://www.bytestoskills.co/) rewards both, check it out.
