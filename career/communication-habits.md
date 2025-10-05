@@ -152,6 +152,4 @@ Trade-offs, risks, follow-ups, or what this unblocks.
 
 ---
 
-## This Is Where I Bribe You with Value
-
-You’ve been scrolling through Staff Engineer thoughts like it’s popcorn. Might as well [get the full buffet](https://www.bytestoskills.co/).
+[Keep learning, keep growing](https://www.bytestoskills.co/)
