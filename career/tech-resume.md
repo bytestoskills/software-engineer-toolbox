@@ -117,7 +117,5 @@ If you’ve got a GitHub, personal site, blog, or even a specific project you’
 
 ---
 
-## This Is Where I Bribe You with Value
-
-If you’ve made it this far, you’re either learning something… or procrastinating really well. Either way, [our website is waiting](https://www.bytestoskills.co/).
+[Keep learning, keep growing](https://www.bytestoskills.co/)
 
