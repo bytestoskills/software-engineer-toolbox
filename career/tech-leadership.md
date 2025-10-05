@@ -13,7 +13,7 @@ Technical leadership is mostly invisible. It shows up in the design docs that pr
 ---
 
 ## 3. What Really Matters  
-Clarity beats cleverness every time. You can build the most elegant, “10x engineer” solution in the world, but if nobody else understands it, you’ve just created future tech debt. Real leadership is about removing confusion. In code, in design docs, and in conversations. When people walk away from a meeting with you, they shouldn’t feel impressed, they should feel clear.  
+**Clarity beats cleverness every time**. You can build the most elegant, “10x engineer” solution in the world, but if nobody else understands it, you’ve just created future tech debt. Real leadership is about removing confusion. In code, in design docs, and in conversations. When people walk away from a meeting with you, they shouldn’t feel impressed, they should feel clear.  
 
 **Context is king**. Engineers can live with hard trade-offs, cutting scope, delaying features, even rewriting parts of a system, if they understand *why*. Without context, decisions feel random, politics-driven, or worse: personal. Share the story behind the decision, not just the headline. That’s how you turn frustration into alignment.  
 
@@ -43,6 +43,4 @@ And maybe the hardest lesson: learn to say “no.” Not the blunt, defensive no
 
 ---
 
-## This Is Where I Bribe You with Value
-
-You’ve read this far, which probably means you’re smart *and* stubborn. Our [website](https://www.bytestoskills.co/) rewards both, check it out.
+[Curiosity doesn’t stop here](https://www.bytestoskills.co/)
