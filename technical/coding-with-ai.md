@@ -8,8 +8,6 @@ Let’s explore how to actually get things done with AI, clearly, efficiently, a
 
 ## A Few Guidelines from Experience
 
-Think of this like advice from your Staff Engineer buddy who’s been quietly testing AI tools for the last year while still shipping features.
-
 1. **Always give context**\
    Treat the AI like a new teammate. If you just say “fix this function,” it’ll panic like an intern on their first day. Tell it what the function does, why it matters, and how it fits into the bigger picture.
 
@@ -41,8 +39,6 @@ Think of this like advice from your Staff Engineer buddy who’s been quietly te
 
 ## Common Mistakes to Avoid
 
-Some lessons you learn the hard way. Others you can borrow from the guy who already face-planted. Here are the classic errors:
-
 1. **Too vague**\
    "Can you help?" — Help with what? Be specific. Think “I’m debugging a null pointer in `src/utils/parseUser.ts`” not “Something broke.”
 
@@ -70,8 +66,6 @@ Some lessons you learn the hard way. Others you can borrow from the guy who alre
 ---
 
 ## The Anatomy of a Great Workflow
-
-Here’s what actually works in the real world:
 
 1. **Understand the task**\
    Is this a bug fix? A new feature? A refactor? Know what you're solving, and why, before involving the AI.
@@ -173,8 +167,5 @@ Also, where would I go to change [specific behavior]?
 
 ---
 
-## This Is Where I Bribe You with Value
-
-Engineers hate writing documentation, except when it's secretly about career growth.  
-If you're into that sort of rebellion, visit [our website](https://www.bytestoskills.co/).
+[Keep learning, keep growing](https://www.bytestoskills.co/)
 
