@@ -1,4 +1,4 @@
-# Great Software Engineering Mindset  
+# Engineering Mindset [What Really Matters]
 
 *It’s not about the tools you use, it’s about how you think.*  
 
