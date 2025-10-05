@@ -43,4 +43,4 @@ And maybe the hardest lesson: learn to say “no.” Not the blunt, defensive no
 
 ---
 
-[Curiosity doesn’t stop here](https://www.bytestoskills.co/)
+[Keep learning, keep growing](https://www.bytestoskills.co/)
