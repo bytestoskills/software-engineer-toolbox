@@ -1,4 +1,4 @@
-# Great Code: What Really Matters  
+# Great Code [What Really Matters]
 
 Great code is not about clever tricks, viral blog posts, or showing off how many design patterns you can squeeze into a single class. It’s not about writing code that makes you look smart. It’s about writing code that makes your team fast. Fast to understand, fast to fix, fast to extend, fast to delete if needed.  
 
