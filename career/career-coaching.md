@@ -32,4 +32,4 @@ And that’s the point of this doc: you don’t need a coach to start applying t
 
 ---  
  
-[Curiosity doesn’t stop here](https://www.bytestoskills.co/)
+[Keep learning, keep growing](https://www.bytestoskills.co/)
