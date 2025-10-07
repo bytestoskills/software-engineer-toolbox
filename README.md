@@ -14,20 +14,20 @@ Skim, learn, try something. Come back later when you're stuck or bored or chasin
 
 ---
 
-## Want to Give Your Future Self a Gift?
+## A Little Gift for Your Curiosity
 
-Hey, we’re engineers, so let’s skip the marketing talk.
+First of all, sorry for this ad. We hate ads, too.
+We’re engineers, so let’s skip the marketing fluff.
 Over the years, we found that what moved the needle in our careers wasn’t just code. It was how we communicated, learned, made decisions, and handled complexity.
-That’s what this little gift is about: 7 skills we wish we had learned earlier, bundled into one no-nonsense guide.
+The little gift for your curiosity? A bundle of 7 skills we wish we had learned earlier. It takes less time to complete than a book, and it’s actually cheaper and more engaging.
 
-[Take a look](https://www.bytestoskills.co/) (No fluff. No silver bullets. Just real help.)
+[Don’t be shy, pay us a visit](https://www.bytestoskills.co/)
 
 ---
 
 ## Table of Contents
 
 This repo is organized into two main folders: `career` and `technical`.  
-Pick your poison—or better yet, balance both.
 
 ### Career
 
