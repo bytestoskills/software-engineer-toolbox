@@ -17,6 +17,7 @@ Skim, learn, try something. Come back later when you're stuck or bored or chasin
 ## A Little Gift for Your Curiosity
 
 First of all, sorry for this ad. We hate ads, too.
+
 We’re engineers, so let’s skip the marketing fluff.
 Over the years, we found that what moved the needle in our careers wasn’t just code. It was how we communicated, learned, made decisions, and handled complexity.
 The little gift for your curiosity? A bundle of 7 skills we wish we had learned earlier. It takes less time to complete than a book, and it’s actually cheaper and more engaging.
