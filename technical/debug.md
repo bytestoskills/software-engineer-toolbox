@@ -58,7 +58,7 @@ Every bug is a story, a sequence of events that led from “everything works” 
 
 Ask: what changed? Who changed it? When did the system start misbehaving? Mapping the timeline gives you context. If a system has been running fine for months and suddenly breaks, something changed, and that “something” is almost always the clue.  
 
-Get good at understanding cause and effect. Don’t just patch the symptom; trace how it started and how it spread. Systems fail in patterns, and once you learn to see those patterns, debugging becomes less like guessing and more like reading.  
+Get good at understanding cause and effect. Don’t just patch the symptom, trace how it started and how it spread. Systems fail in patterns, and once you learn to see those patterns, debugging becomes less like guessing and more like reading.  
 
 ---
 
@@ -92,7 +92,7 @@ There are a few traps that catch every engineer at some point. The first is fixi
 
 Another trap is adding complexity when you’re stressed. It’s tempting to pile on conditions or temporary workarounds, but the right fix usually simplifies the system. Complexity might hide the problem, but it never solves it.  
 
-And perhaps the easiest trap is ignoring clues that feel “too weird.” The intermittent bug that only happens on staging or only under heavy load, that’s not randomness, that’s your golden clue. Bugs don’t appear by accident; every one has a logic waiting to be discovered.  
+And perhaps the easiest trap is ignoring clues that feel “too weird.” The intermittent bug that only happens on staging or only under heavy load, that’s not randomness, that’s your golden clue. Bugs don’t appear by accident, every one has a logic waiting to be discovered.  
 
 ---
 
@@ -112,7 +112,7 @@ Part of being a professional is knowing when to stop. Not every problem deserves
 
 If you’ve been circling the same problem for hours, step back. Take a walk, get some distance, and look at it fresh. Most “hard bugs” shrink after a break. And sometimes, the best move is to escalate, to involve someone who knows a part of the system you don’t.  
 
-Knowing when to rest or reset isn’t weakness; it’s efficiency. Debugging is as much about managing your energy as your logic.  
+Knowing when to rest or reset isn’t weakness, it’s efficiency. Debugging is as much about managing your energy as your logic.  
 
 ---
 
