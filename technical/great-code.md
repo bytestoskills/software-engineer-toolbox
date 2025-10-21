@@ -76,16 +76,33 @@ Great code isn’t about winning on every axis. It’s about balancing the trade
 
 ---
 
-## What Not To Do  
+## Communication Through Code  
 
-Let’s be real about a few things that never count as great code:  
+Every line of code is a message to the next person who reads it. You can either make their life easier or harder. The best engineers write code that communicates decisions, assumptions, and intent, not just logic.  
 
-- Clever hacks that only the author understands.  
-- A “temporary” workaround that mysteriously becomes permanent.  
-- Reinventing the wheel because you wanted to “learn by doing.”  
-- Abstractions so generic that they solve no real problem.  
+Good naming is communication. Clean structure is communication. Even a short, honest comment like *“We’re doing this workaround because of legacy X”* can save hours of confusion.  
 
-We’ve all been there. We’ve all cursed it at 2 a.m. Great code avoids adding to this pile.  
+Code is the shared language of the team. When written clearly, it becomes the documentation everyone actually reads. Write it like you’re explaining your thought process to someone smart but busy. Because that’s exactly who’s going to read it.  
+
+---
+
+## Code That Ages Well  
+
+Some code looks great on day one and becomes a nightmare by day 100. Great code, on the other hand, ages gracefully. It adapts to new needs without breaking, and it doesn’t depend on a single fragile idea that collapses when requirements change.  
+
+Code that ages well usually has a few traits in common: it’s modular, has clear boundaries, doesn’t hide too much behind abstractions, and avoids overcomplication. It also comes with the right level of testing and documentation, not too much, not too little.  
+
+You can’t future-proof everything, but you can write code that won’t panic when the future arrives.  
+
+---
+
+## Testing Is a Design Tool  
+
+Testing is not a checkbox at the end. It’s a design conversation. When you write tests early, they force you to think about how the code behaves, what its boundaries are, and what should happen when things go wrong.  
+
+Tests make invisible assumptions visible. They show you where your design is too coupled or too brittle. The goal isn’t 100% coverage, it’s to understand your system better.  
+
+Think of testing as part of the design loop, not a cleanup step. Great engineers use tests to design better code, not just to prove it works.  
 
 ---
 
