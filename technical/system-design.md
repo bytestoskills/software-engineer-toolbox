@@ -1,6 +1,6 @@
 # Great System Design [What Really Matters]
 
-## Intro: Cutting Through the Noise  
+## Cutting Through the Noise  
 System design often looks impressive on a whiteboard: circles, arrows, and enough acronyms to fill a bingo card. But most of that theater doesn’t hold up once the system hits production. What really matters isn’t how clever your diagram looks, it’s whether the system holds together under pressure, whether the team can run it without losing sleep, and whether it actually solves the problem it was meant to solve.  
 
 Think of this as field notes, not doctrine. These are the ideas that have proven themselves in the real world, stripped of the fluff.  
@@ -27,6 +27,15 @@ Here’s the reality: your system will fail. Something will crash, someone will 
 The difference between a rookie design and a seasoned one is how it handles the ugly moments. Does one server dying mean downtime, or does the system limp along while you fix it? Does a network hiccup cause a domino of retries that crush the system, or does it quietly back off and recover?  
 
 Great design accepts failure as normal and builds with it in mind. It’s not pessimism, it’s respect for reality. If you assume perfection, you’ll build a fragile system. If you assume chaos, you’ll build one that survives.  
+
+---
+
+## Consistency Is a Design Choice  
+Consistency is not binary, it is a decision about what kind of truth your system will guarantee and when. Some data must always be correct: account balances, permissions, transactions. Other data can afford to lag for a few seconds: counters, analytics, cache states. Knowing the difference is a sign of maturity.  
+
+Strong consistency simplifies reasoning but limits scalability and availability. Eventual consistency allows more flexibility but makes debugging harder and behavior less predictable. Neither approach is universally right or wrong. The best designs mix both, using strong consistency only where it truly matters and relaxing it elsewhere to gain performance and resilience.  
+
+Designing for consistency means more than choosing a database setting. It means setting clear expectations for users and for your team. If the system will show slightly stale data, make that visible. If a process guarantees exact results, make that guarantee solid. Hidden assumptions about consistency are where most subtle bugs begin.  
 
 ---
 
@@ -57,12 +66,30 @@ If your design doc doesn’t make at least one trade-off explicit, you probably 
 
 ---
 
+## Cost Awareness Is Part of Design  
+Every system you design carries a cost, whether anyone tracks it or not. Compute, storage, bandwidth, third-party APIs, even developer time, all of it adds up. Many systems fail not because they break technically, but because they become too expensive to run or evolve.  
+
+Great engineers treat cost as a first-class constraint, not a surprise at the end of the project. They ask early: what are we paying for, and what are we getting back? A feature that saves a few milliseconds but doubles the infrastructure bill is rarely a win. Likewise, a cheaper approach that adds hidden maintenance work can cost more in the long run.  
+
+Cost awareness is about balance. It means understanding that every optimization, redundancy, or new dependency has a price tag. When you design with that mindset, your systems tend to be leaner, more sustainable, and easier to justify to the people who sign the bills. Pragmatism beats extravagance every time.  
+
+---
+
 ## Evolve, Don’t Over-Engineer  
 A common trap is designing for problems you don’t have yet. Teams burn weeks solving “future” issues while the current system is still shaky. The smarter approach is to design for today, while leaving yourself room to evolve tomorrow.  
 
 A good design isn’t one that can handle a billion users from day one. It’s one that can adapt as the load grows, without forcing a full rewrite. That means making it easy to change, not pretending you can predict the future.  
 
 Over-engineering feels like safety, but it’s really just waste in disguise. Evolution beats prediction every time.  
+
+---
+
+## Small Wins Compound  
+Big rewrites and architectural overhauls make for good presentations, but most real progress in system design comes from small, consistent improvements. Simplifying one service boundary, cleaning up a confusing interface, adding a missing metric. Those are the changes that quietly make a system healthier over time.  
+
+Small wins compound because they lower friction. Each small improvement makes the next one easier. Systems that evolve gradually remain flexible, while those that wait for “the big redesign” tend to decay under their own weight. Engineers often underestimate how powerful steady iteration can be when practiced intentionally.  
+
+The best designs are never finished. They are living systems that improve bit by bit, release by release. A good engineer knows how to spot the next small win and take it. That habit, multiplied over time, creates systems that feel effortless to run and improve. 
 
 ---
 
