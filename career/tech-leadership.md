@@ -17,7 +17,7 @@ Let’s talk about what really matters.
 
 Most engineers are trained to value cleverness. We love elegant solutions, clever abstractions, one-liners that feel like magic. But leadership teaches you something different: clever code doesn’t scale, clarity does.  
 
-Clarity isn’t just about code readability; it’s about communication. When you lead, your biggest output is no longer commits, it’s understanding. The clearer you are, the faster everyone moves. Confusion is the silent killer of productivity.  
+Clarity isn’t just about code readability, it’s about communication. When you lead, your biggest output is no longer commits, it’s understanding. The clearer you are, the faster everyone moves. Confusion is the silent killer of productivity.  
 
 Cleverness often hides uncertainty. You can sense it in the design that “just works” but no one can explain why, or the meeting where everyone nods but nobody could repeat what was decided. Clarity, on the other hand, forces you to face ambiguity head-on. It demands you explain, simplify, and teach.  
 
@@ -34,7 +34,7 @@ Clarity scales. Cleverness doesn’t.
 
 When you start leading, you realize that most technical debates aren’t about *what’s right*, they’re about *what’s right for now*.  
 
-The best decision in one context can be the worst in another. That’s why great leaders obsess over context. They don’t just tell people *what* to do; they explain *why*. They make trade-offs visible, and they make reasoning explicit.  
+The best decision in one context can be the worst in another. That’s why great leaders obsess over context. They don’t just tell people *what* to do, they explain *why*. They make trade-offs visible, and they make reasoning explicit.  
 
 Without context, people default to personal preference. They argue over patterns, languages, frameworks, or practices without realizing they’re optimizing for different goals. Context aligns people on the problem before they start fighting over the solution.  
 
@@ -70,7 +70,7 @@ People can handle tough news, critical feedback, and even failure, as long as th
 
 Consistency means showing up with the same values, tone, and reliability every time. When you say you’ll do something, you do it. When you give feedback, it’s fair. When things go wrong, you take ownership instead of finding someone to blame.  
 
-Teams don’t need heroes; they need stability. Consistency turns uncertainty into predictability, and predictability into confidence. Over time, people stop guessing how you’ll react. They know. And that frees them to focus on their work, not your mood.  
+Teams don’t need heroes, they need stability. Consistency turns uncertainty into predictability, and predictability into confidence. Over time, people stop guessing how you’ll react. They know. And that frees them to focus on their work, not your mood.  
 
 Leadership isn’t just about vision. It’s about reliability.  
 Because no one can follow someone they can’t rely on.  
@@ -124,7 +124,7 @@ Empathy isn’t soft. It’s strategic.
 
 ## **Final Note**  
 
-Technical leadership isn’t a badge you wear; it’s a responsibility you earn, every day, through clarity, context, consistency, and care.  
+Technical leadership isn’t a badge you wear, it’s a responsibility you earn, every day, through clarity, context, consistency, and care.  
 
 It’s not about having the loudest voice or the sharpest skills. It’s about building something that lasts, both in code and in culture.  
 
